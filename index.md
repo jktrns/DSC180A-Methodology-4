@@ -9,7 +9,7 @@ title: DSC 180A Methodology Assignment 4
 **Section:** B15  
 **Mentor:** Yu-Xiang Wang
 
----
+## Q2 Brainstorming
 
 **What is the most interesting topic covered in your domain this quarter?**
 
